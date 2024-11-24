@@ -59,8 +59,9 @@ ${data.usage}
     Make sure you have: package.json
     Make sure you run: npm init
 
-    ## Credits
+## Credits 
 ${data.Credits}
+
 
 ## License
 ${renderLicenseBadge(data.license)}
